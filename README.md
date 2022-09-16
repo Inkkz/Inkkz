@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkkz&show_icons=true&theme=dark&locale=en" alt="Inkkz" /></p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed&theme=graywhite&quoteCategory=programming)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle&theme=graywhite&quoteCategory=programming)
 
  ## <!-- Typing SVG -->
 <p align="center">
