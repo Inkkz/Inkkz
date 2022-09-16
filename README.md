@@ -26,6 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkkz&show_icons=true&theme=dark&locale=en" alt="Inkkz" /></p>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates)
+
  ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
